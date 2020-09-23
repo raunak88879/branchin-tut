@@ -1,1 +1,1 @@
-Thi is version 1 of branch master
+Thi is version 2 of branch master of login-stsem
